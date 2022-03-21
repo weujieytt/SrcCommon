@@ -3,7 +3,7 @@
 - httpx
 - ffuf
 
-## 域名爆破 
+## DomainFUZZ
   - domain-extension.txt 根域名爆破 eg:www.baidu.FUZZ
   - subnames.txt 二级域名爆破 eg: FUZZ.baidu.com
   - subnames-full.txt 二级域名爆破(大字典) eg: FUZZ.baidu.com
@@ -13,7 +13,7 @@
   ```
  ![image](https://user-images.githubusercontent.com/70327097/145672111-e1f94b68-6cdd-4c00-bb47-a02ddaa576f5.png)
  
-## 403Bypass
+## 403BypassFUZZ
   - 403BypassDirgener.py  恶意目录生成
   - Spring-actuaorFUZZ.txt /actuator/env 生成实例，总共1020条目录
 ### 用例
