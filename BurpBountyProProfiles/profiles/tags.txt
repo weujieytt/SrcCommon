@@ -1,0 +1,14 @@
+ALL
+CORS
+CVEs
+Drupal
+Wordpress
+SSTI
+Path Traversal
+Unauthorized
+dirFUZZ
+Directory_FUZZ
+Directory Fuzz
+403Bypass
+Apache
+Weblogic
